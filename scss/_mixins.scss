@@ -1,0 +1,19 @@
+@import "scss-variables";
+
+@mixin light-drop-shadow() {
+  box-shadow:
+          0 20px 60px 0 adjust-color($primary-drop-shadow-color, $alpha: -0.9),
+          0 16px 36px 0 adjust-color($primary-drop-shadow-color, $alpha: -0.7);
+}
+
+@mixin going-large($width) {
+  @media (min-width: $width), print {
+    @content;
+  }
+}
+
+@mixin print() {
+  @media print {
+    @content;
+  }
+}
