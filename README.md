@@ -1,11 +1,11 @@
-# Artemiy Lemann
-## Front-end Developer
+# Aymen Bougeh
+## Junior JavaScript Software engineer
 
-Phone: +79119042477
+Phone: (+216) 53 231 459
 
-Email: artemee.lemann@yandex.ru
+Email: aymenbougeh1@gmail.com
 
 
 ### CV 
 
-My experience [in more detail](https://lemonypie.github.io)
+My experience [in more detail](https://AymenBougeh.github.io)
